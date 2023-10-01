@@ -13,6 +13,10 @@
 		<sonar.host.url>http://18.181.164.81:9000/</sonar.host.url>
 
 	</properties>
+	<properties>
+  <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+</properties>
+
 	<dependencies>
 
 		
